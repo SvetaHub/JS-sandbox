@@ -1,3 +1,7 @@
+console.log("\n\n");
+
+// Типы данных, вложенные структуры, доступ через точку и квадратные скобки
+
 let day = {
     temperature: 24,
     something: "story bro",
